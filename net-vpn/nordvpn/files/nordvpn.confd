@@ -1,0 +1,2 @@
+# NordVPN OpenRC settings. No automatic VPN connection is configured.
+# Change only after separately reviewing network/kill-switch behavior.

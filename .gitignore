@@ -1,0 +1,17 @@
+# Source-only Portage overlay: never store packages, models or credentials.
+*.deb
+*.rpm
+*.tbz2
+*.gpkg.tar
+*.gguf
+*.safetensors
+*.bin
+*.log
+*.key
+*.pem
+*.secret
+*.swp
+*~
+/distfiles/
+/packages/
+/.cache/
